@@ -7,7 +7,7 @@ This project is a real-time chat application developed as part of a tutorial fro
 ### Frontend:
 - Built with **React**.
 - Uses **Vite** for fast development and optimized builds.
-- State management and hooks for handling real-time updates.
+- hooks for handling real-time updates.
 
 ### Backend:
 - Developed with **Node.js** and **TypeScript**.
